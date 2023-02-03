@@ -6,3 +6,6 @@ Notebooks for https://julia.quantecon.org
 
 - [Lecture source](https://github.com/QuantEcon/lecture-julia.myst)
 - [README source code](https://github.com/QuantEcon/lecture-julia.myst/blob/main/_notebook_repo/README.md) 
+
+
+some change
